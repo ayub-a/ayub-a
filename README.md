@@ -1,1 +1,1 @@
-<img src='resume.png'width='100%'/>
+<img src='resume.png' width="100%"/>
