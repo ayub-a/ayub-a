@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/ayub-a/ayub/blob/main/resume.png)
+<img src='resume.png'/>
