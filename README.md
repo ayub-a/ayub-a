@@ -1,12 +1,12 @@
 
-##Achildiev Ayub                              
+`Achildiev Ayub`                              
 _________________________
 Industrial & Web Designer
 Web Developer
 
 
 
-##Education
+`Education`
 _____________________________________
 Institution:  Republican Design College (2016)
 Faculty:  Design， 
