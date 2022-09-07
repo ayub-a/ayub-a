@@ -1,17 +1,18 @@
 
-Achildiev Ayub                             
-_________________________
-Industrial & Web Designer
-Web Developer
+## Achildiev Ayub
+
+>Industrial & Web Designer <br>
+>Web Developer
 
 
+## Education
 
-Education
-____________________________________________________
->`Institution`:  Republican Design College (2016)
->`Faculty`:  Design， 
->`Profession`:  Industrial designer
-<br/>
->`Institution`:  Southwest University “西南大学” (2022)
->`Faculty`:  Chinese， 
->`Profession`:  Interpreter (HSK-4, 285)
+>`Institution:`  Republican Design College (2016) <br>
+>`Faculty:`  Design, <br>
+>`Profession:`  Industrial designer <br>
+
+<br>
+
+>`Institution:`  Southwest University “西南大学” (2022) <br>
+>`Faculty:`  Chinese, <br>
+>`Profession:`  Interpreter (HSK-4, 285) <br>
