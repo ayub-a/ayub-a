@@ -2,4 +2,4 @@
 ## Achildiev Ayub
 
 >Industrial & Web Designer <br>
->Full-stack Web Developer | PERN
+>Front-end Web Developer | PERN
