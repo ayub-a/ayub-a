@@ -12,7 +12,7 @@
     📫 How to reach me: <a href='mailto:ayub-dev@yandex.ru'>ayub-dev@yandex.ru</a> or
   </p>
   <p>
-    <a href="https://https:/t.me/ayub_aaa">
+    <a href="https://t.me/ayub_aaa">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>&nbsp;&nbsp;
    </p>
